@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.209" height="20.544" viewBox="0 0 23.209 20.544">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfe0dc;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #2e4e5b;
+      }
+    </style>
+  </defs>
+  <g id="Group_266" data-name="Group 266" transform="translate(-20.5 -556.5)">
+    <g id="Group_96" data-name="Group 96" transform="translate(3 27)">
+      <g id="heart_2_" data-name="heart (2)" transform="translate(20 496.475)">
+        <path id="Path_465" data-name="Path 465" class="cls-1" d="M15.076,35.525a5.851,5.851,0,0,1,5.633,6c0,6.054-10.354,12.049-10.354,12.049S0,47.486,0,41.52a5.822,5.822,0,0,1,5.633-6h0a5.5,5.5,0,0,1,4.722,2.7A5.552,5.552,0,0,1,15.076,35.525Z"/>
+      </g>
+      <g id="heart_2_2" data-name="heart (2)" transform="translate(18 494.475)">
+        <path id="Path_465-2" data-name="Path 465" class="cls-2" d="M15.076,35.525a5.851,5.851,0,0,1,5.633,6c0,6.054-10.354,12.049-10.354,12.049S0,47.486,0,41.52a5.822,5.822,0,0,1,5.633-6h0a5.5,5.5,0,0,1,4.722,2.7A5.552,5.552,0,0,1,15.076,35.525Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

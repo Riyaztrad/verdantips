@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfe0dc;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2e4e5b;
+      }
+
+      .cls-3 {
+        fill: #2e4e5b;
+        font-size: 12px;
+        font-family: Poppins-Regular, Poppins;
+        letter-spacing: 0.02em;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_827" data-name="Group 827" transform="translate(-22 -823)">
+    <circle id="Ellipse_260" data-name="Ellipse 260" class="cls-1" cx="9.5" cy="9.5" r="9.5" transform="translate(24 825)"/>
+    <g id="Ellipse_259" data-name="Ellipse 259" class="cls-2" transform="translate(22 823)">
+      <circle class="cls-4" cx="9.5" cy="9.5" r="9.5"/>
+      <circle class="cls-5" cx="9.5" cy="9.5" r="9"/>
+    </g>
+    <text id="i" class="cls-3" transform="translate(30 837)"><tspan x="0" y="0">i</tspan></text>
+  </g>
+</svg>

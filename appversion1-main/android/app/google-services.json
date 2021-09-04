@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "833571377199",
+    "firebase_url": "https://verdantips-app.firebaseio.com",
+    "project_id": "verdantips-app",
+    "storage_bucket": "verdantips-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833571377199:android:6d89cea5fe543c766ef6da",
+        "android_client_info": {
+          "package_name": "com.verdantip.verdantips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833571377199-9d56qluq4p6m1nusb4kr05omlheg6bmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verdantip.verdantips",
+            "certificate_hash": "cd19002300defca11ff6efd42c62d45c4934a899"
+          }
+        },
+        {
+          "client_id": "833571377199-nvj9qtgip58lcoqj90e6ommm1l88nra5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verdantip.verdantips",
+            "certificate_hash": "5c01cf00db6d8ad46686f97978dbbfebe7e7daca"
+          }
+        },
+        {
+          "client_id": "833571377199-uvjpr5vb8cbnqinhdo0trkaun4s22tpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5tOB2YAFyxdizabFwJuJK6DkQElz7NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833571377199-uvjpr5vb8cbnqinhdo0trkaun4s22tpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833571377199-rpgvjdc8jodu927q8rvcks7me9rvcdji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.verdantips.verdantips"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

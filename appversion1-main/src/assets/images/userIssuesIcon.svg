@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.202" height="21.201" viewBox="0 0 21.202 21.201">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfe0dc;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #2e4e5b;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_269" data-name="Group 269" transform="translate(-21.5 -704.149)">
+    <g id="Group_99" data-name="Group 99" transform="translate(6.351 -6)">
+      <path id="Shape" class="cls-1" d="M28.7.984v13.78a.987.987,0,0,1-.984.984H17.875l-1.427.984-2.722,1.88a.492.492,0,0,1-.773-.4V15.749H10.984A.987.987,0,0,1,10,14.765V.984A.987.987,0,0,1,10.984,0H27.718A.987.987,0,0,1,28.7.984Z" transform="translate(7.649 712.649)"/>
+      <path id="Shape-2" data-name="Shape" class="cls-2" d="M28.7.984v13.78a.987.987,0,0,1-.984.984H17.875l-1.427.984-2.722,1.88a.492.492,0,0,1-.773-.4V15.749H10.984A.987.987,0,0,1,10,14.765V.984A.987.987,0,0,1,10.984,0H27.718A.987.987,0,0,1,28.7.984Z" transform="translate(5.649 710.649)"/>
+      <g id="Group_95" data-name="Group 95" transform="translate(-2.585 19.63)">
+        <g id="Ellipse_125" data-name="Ellipse 125" class="cls-2" transform="translate(22.585 693.37)">
+          <circle class="cls-3" cx="5.5" cy="5.5" r="5.5"/>
+          <circle class="cls-4" cx="5.5" cy="5.5" r="5"/>
+        </g>
+        <path id="Path_466" data-name="Path 466" class="cls-2" d="M531.369,4817.526l-6.725,6.943" transform="translate(-499.625 -4122.25)"/>
+      </g>
+    </g>
+  </g>
+</svg>
